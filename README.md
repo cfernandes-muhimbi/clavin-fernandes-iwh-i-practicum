@@ -1,6 +1,6 @@
 ## Custom Object List View
 
-Cricket Players (custom object) list view:
+Cricket Players (custom object) list views:
 
 https://app-eu1.hubspot.com/contacts/147562161/objects/2-196994984/views/all/list
 
