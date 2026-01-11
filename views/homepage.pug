@@ -1,0 +1,22 @@
+doctype html
+html
+  head
+    title= title
+  body
+    h1= title
+
+    a(href="/update-cobj") Add to this table
+    hr
+
+    table(border="1")
+      thead
+        tr
+          th Name
+          th Role
+          th Country
+      tbody
+        each player in players
+          tr
+            td= player.properties.name
+            td= player.properties.role
+            td= player.properties.country
